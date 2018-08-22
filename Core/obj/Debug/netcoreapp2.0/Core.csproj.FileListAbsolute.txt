@@ -1,0 +1,11 @@
+C:\Users\Yuliya.Kukareka\source\repos\Core\Core\bin\Debug\netcoreapp2.0\Core.deps.json
+C:\Users\Yuliya.Kukareka\source\repos\Core\Core\bin\Debug\netcoreapp2.0\Core.runtimeconfig.json
+C:\Users\Yuliya.Kukareka\source\repos\Core\Core\bin\Debug\netcoreapp2.0\Core.runtimeconfig.dev.json
+C:\Users\Yuliya.Kukareka\source\repos\Core\Core\bin\Debug\netcoreapp2.0\Core.dll
+C:\Users\Yuliya.Kukareka\source\repos\Core\Core\obj\Debug\netcoreapp2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Yuliya.Kukareka\source\repos\Core\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Yuliya.Kukareka\source\repos\Core\Core\obj\Debug\netcoreapp2.0\Core.AssemblyInfo.cs
+C:\Users\Yuliya.Kukareka\source\repos\Core\Core\bin\Debug\netcoreapp2.0\Core.pdb
+C:\Users\Yuliya.Kukareka\source\repos\Core\Core\obj\Debug\netcoreapp2.0\Core.dll
+C:\Users\Yuliya.Kukareka\source\repos\Core\Core\obj\Debug\netcoreapp2.0\Core.pdb
+C:\Users\Yuliya.Kukareka\source\repos\Core\Core\obj\Debug\netcoreapp2.0\Core.csprojAssemblyReference.cache
